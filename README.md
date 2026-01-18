@@ -8,7 +8,7 @@
 ### 💫 Summary
 I am a passionate developer and analyst from **Wayamba University of Sri Lanka**. My expertise lies in bridging the gap between **Software Development** and **Statistical Modeling**. I enjoy building data-driven applications that solve real-world problems.
 
-- 💻 **Computing:** Specialized in Full-stack development (Flutter/Flask) and NLP.
+- 💻 **Computing:** Skilled in **Java**, **Python**, and **Data Science**. **NLP**, **Flutter**, and **Flask** were applied in academic projects.
 - 📊 **Statistics:** Experienced in regression analysis, time series, and actuarial concepts.
 
 ---
